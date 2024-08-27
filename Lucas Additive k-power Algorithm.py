@@ -535,7 +535,7 @@ MainPure(5,[[0,0,0,0,1],[0,1,1,0,1]],2,[0,1],0)
 
 print('------------------------------------------')
 
-# Verifies Proposition 3.1 in J. Andrade and L. Mol, Avoiding additive powers in rich words, preprint, 2024.
+# Verifies Proposition 4.1 in J. Andrade and L. Mol, Avoiding additive powers in rich words, preprint, 2024.
 MainPure(4,[[1,0,0,0,1],[1,0,1,2,1,0,1],[1,0,1,2,2,2,1,0,1]],3,[0,1,2],1)
 
 print('------------------------------------------')
