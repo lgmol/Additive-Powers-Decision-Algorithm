@@ -4,6 +4,6 @@ The algorithm was implemented primarily by Jonathan Andrade.  For details regard
 
 [1] J. Andrade, Avoiding additive powers in words, undergraduate honours thesis, Thompson Rivers University, 2024.  Available at https://tru.arcabc.ca/islandora/object/tru%3A6415
 
-[2] J. Andrade and L. Mol, Avoiding abelian and additive powers in rich words, preprint, 2024.  Available at ??
+[2] J. Andrade and L. Mol, Avoiding abelian and additive powers in rich words, preprint, 2024.  Available at https://www.arxiv.org/abs/2408.15390
 
 [3] J. Currie, L. Mol, N. Rampersad, and J. Shallit, Extending Dekking's construction of an infinite binary word avoiding abelian 4-powers, preprint, 2021.  Available at https://arxiv.org/abs/2111.07857
